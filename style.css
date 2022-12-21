@@ -1,0 +1,12 @@
+.books{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.book{
+    border: 1px solid brown;
+    padding: 15px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
